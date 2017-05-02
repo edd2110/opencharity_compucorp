@@ -1,0 +1,17 @@
+name = Open Charity
+description = Custom theme for Open CHarity Application test
+core = 7.x
+engine = phptemplate
+
+regions[header] = Navigation Menu
+regions[content] = Main Slider
+regions[events] = Events
+regions[channels] = Channels
+regions[mission] = Our Mission
+regions[objectives] = Our Objectives
+regions[members] = Our Members
+regions[blog] = Blog
+regions[footer] = Footer
+
+stylesheets[all][] = css/style.css
+
